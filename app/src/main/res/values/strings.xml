@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Octo Browse</string>
+    <string name="go">GO</string>
+    <string name="octo_browse">Octo Browse</string>
+    <string name="forward">Forward</string>
+    <string name="clear">Clear</string>
+    <string name="reload">Reload</string>
+    <string name="backword">Backword</string>
+</resources>
